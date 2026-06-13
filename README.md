@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harishganesan123/LEETS/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harishganesan123/LEETS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/harishganesan123/LEETS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harishganesan123/LEETS/tree/master/0142-linked-list-cycle-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishganesan123/LEETS/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harishganesan123/LEETS/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harishganesan123/LEETS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Math
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harishganesan123/LEETS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
