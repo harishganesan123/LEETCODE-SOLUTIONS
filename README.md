@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harishganesan123/LEETS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/harishganesan123/LEETS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harishganesan123/LEETS/tree/master/0142-linked-list-cycle-ii) |
+| [1768-merge-strings-alternately](https://github.com/harishganesan123/LEETS/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harishganesan123/LEETS/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/harishganesan123/LEETS/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
