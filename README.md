@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harishganesan123/LEETS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harishganesan123/LEETS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/harishganesan123/LEETS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harishganesan123/LEETS/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harishganesan123/LEETS/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/harishganesan123/LEETS/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harishganesan123/LEETS/tree/master/0013-roman-to-integer) |
 | [1768-merge-strings-alternately](https://github.com/harishganesan123/LEETS/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
